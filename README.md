@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anindya Kumar Das</h1>
 <h3 align="center">A Bangladeshi Undergrad Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anindya-web&label=Profile%20views&color=0e75b6&style=flat" alt="anindya-web" /> </p>
+
 - 🌱 I’m currently learning **Python, Latex, FastAPI, Linux, CyberSecurity**
 
 - 💬 Ask me about **Programming, Technical Documentation, Research Based Design**
