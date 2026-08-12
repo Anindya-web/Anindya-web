@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Programming, Technical Documentation, Research Based Design**
 
-- 📫 How to reach me **anindyase1124@gmail.com**
+- 📫 How to reach me **anindyase1124@gmail.com**;**dasanindya09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
